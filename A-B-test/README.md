@@ -7,5 +7,5 @@
 pandas
 datetime
 numpy
-matplotlib.pyplot
+matplotlib.pyplot,
 scipy.stats
